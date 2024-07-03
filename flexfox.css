@@ -1,0 +1,295 @@
+body{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+div{
+font-family: Arial;
+}
+
+.flex9{
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: black;
+  width: 300px;
+  border-style: solid;
+}
+
+.flex10{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 10px 6px 10px;
+}
+
+.buttonss{
+  background-color: lightblue;
+  border-radius: 5px;
+  color: white;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.header{
+  background-color: purple;
+  color: white;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 30px;
+}
+
+.home{
+  font-weight: bold;
+}
+
+.inpu{
+  width: 500px;
+  border-radius: 20px;
+  border-style: solid;
+  margin-right: 50px;
+  padding: 8px 10px 8px 10px;
+  border: none;
+}
+
+.download{
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  border-radius: 2px;
+  padding: 8px 15px 8px 15px;
+  background-color: purple;
+  color: white;
+}
+
+
+.olive{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.imd{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-right: 15px;
+}
+
+.reas{
+  width: 200px;
+}
+
+  .dazq{
+    font-weight: bold;
+    margin-bottom: 3px;
+  }
+
+  .xas{
+    color: gray;
+    margin-bottom: 5px;
+  }
+
+  .xaz{
+    color: gray;
+    font-size: 14px;
+  }
+
+
+  .ollow-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 15px 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family:  Arial;
+  }
+
+
+  .bow{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+  }
+ 
+ 
+  .red{
+    background-color: lightpink;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .pink{
+    background-color: black;
+    color: white;
+  }
+
+
+  .blue{
+    background-color: lightblue;
+    width: 200px; 
+  }
+
+  .zmn{
+    display: flex;
+    height: 50px;
+    margin-top: 40px;
+    margin-bottom: 40PX;
+  }
+
+  .lala{
+    background-color: lightpink;
+    width: 100px;
+  }
+
+  .mzd{
+    background-color: lightblue;
+    width: 200px;
+  }
+
+  .ffe{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+
+.imgaz{
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.jamin{
+  font-size: 8px;
+  margin-bottom: 10px;
+  font-family: Arial;
+}
+
+.xio{
+  width: 280px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  margin-bottom: 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+.dazxx{
+display: flex;
+justify-content: space-between;
+margin-right: 10px;
+}
+
+p{
+  font-size: 10px;
+  font-weight: bold;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.saz{
+  display: flex;
+  align-items: center;
+}
+
+.sawer{
+  font-weight: normal;
+  color: gray;
+}
+
+
+.xzq{
+  display: flex;
+  width: 420px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+}
+
+.baby{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.cvbo{
+  margin-right: 10px;
+}
+
+.er{
+  flex: 1;
+}
+
+.dall{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px;
+}
+
+
+
+.xma{
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.xmq{
+color: gray;
+}
+
+.xmb{
+  line-height: 20px;
+  margin-bottom: 15px;
+  }
+
+  .vaq{
+    display: flex;
+    align-items: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    border-radius: 15px;
+    overflow: hidden;
+  }
+
+  .nxa{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(220, 220, 220);
+    margin-right: 10px;
+  }
+
+  .fuu{
+    flex: 1;
+  }
+
+  .wex{
+    color: rgb(111, 111, 111);
+    margin-bottom: 3px;
+  }
+
+  .wee{
+    line-height: 22px;
+  }
+

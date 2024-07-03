@@ -1,0 +1,89 @@
+body{
+  height: 3000px;
+}
+
+div{
+  font-family: Arial;
+}
+
+.efo{
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  font-size: 8px;
+  border-radius: 50%;
+  padding: 5px 7px 5px 7px;
+}
+
+
+.rav{
+  position: fixed;
+  height: 180px;
+  width: 320px;
+  background-color: gray;
+  bottom: 10px;
+  right: 10px;
+}
+
+.daz{
+  background-color: black;
+  color: white;
+  position: absolute;
+  font-size: 10px;
+  right: 5px;
+  bottom: 5px;
+  padding: 2px 2px 2px 2px;
+}
+
+.xza{
+  position: relative;
+  display: inline-block;
+  margin-top: 30px;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 5px;
+  padding-top: 2px;
+}
+
+.jam{
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+}
+
+.pix{
+  position: absolute;
+  background-color: black;
+  color: white;
+  font-size: 7px;
+  padding: 2px 2px 2px 2px;
+  top: 5px;
+  right: 0;
+}
+
+.v{
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+  bottom: 0;
+  height: 50px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.muda{
+  background-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 7px;
+  padding-right: 7px; 
+}
